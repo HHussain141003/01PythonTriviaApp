@@ -1,2 +1,2 @@
-# 01PythonQuizAPI
-Python Quiz CLI app using a publicly available API
+# Python trivia app
+Python trivia CLI app using a publicly available API
